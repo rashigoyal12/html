@@ -1,0 +1,48 @@
+*{margin:0;
+	padding:0;
+	box-sizing:border-box;}
+	
+div.a{height:670px;
+		max-width:400px;
+		border:2px solid black;
+		margin:50px 450px 50px 450px;
+		padding:30px;
+		box-shadow:0.5;
+		border-radius:5px;
+		box-shadow:3px 3px #747375 ;}
+		
+div.b{padding:0 5px 20px 5px;
+		text-align:center;
+		text-decoration:underline;}
+		
+h1{font-family: "Fira Sans", sans-serif;}
+
+label{font-family: "Poppins", sans-serif;}
+
+		
+input[type=text],[type=email],[type=date]{margin:0 0 10px 0;
+										height:30px;
+										width:340px;
+										padding:10px;
+										border-radius:5px;}
+										
+input.a[type=text]{background-image:url('../images/stdlogo.jpg');
+										background-position:0px 3px ;
+										background-repeat:no-repeat;
+									}
+										
+select{margin:0px 10px 10px 0;
+		height:30px;
+		width:340px;
+		border-radius:5px;}
+
+button{margin:10px 0 10px 0;
+		padding:5px 20px 5px 20px;
+		border-radius:5px;
+		font-size:15px;
+		cursor:pointer;
+		background-color:#3c3e6e;
+		color:white}
+
+
+	
